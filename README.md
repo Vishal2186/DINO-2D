@@ -3,7 +3,7 @@
 > The Dinosaur Game is a browser game developed by Google and built into the Google Chrome web browser. The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score. The game was created by members of the Chrome UX team in 2014.
 
 
-## 🚀 About Me
+<!--## 🚀 About Me
 i am Game devloper
 
 Basic buliding dino game
@@ -103,7 +103,7 @@ For support, email vishal.609.vishal.609@gmail.com or join our Slack channel.
 ## Feedback
 
 If you have any feedback, please reach out to us at vishal.609.vishal.609@gmial.com
-
+-->
 
 
 Here's the game view --><br> #1.<img src="view/Screenshot 2025-01-08 at 2.02.46 PM.png" alt="game view" height="600" width="800" align="right">
